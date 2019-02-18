@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Angry Bird</string>
+    <string-array name="list_name">
+        <item>png_1</item>
+        <item>png_2</item>
+        <item>png_3</item>
+        <item>png_4</item>
+        <item>png_5</item>
+        <item>png_6</item>
+        <item>png_7</item>
+        <item>png_8</item>
+        <item>png_9</item>
+        <item>png_10</item>
+        <item>png_11</item>
+        <item>png_12</item>
+    </string-array>
+</resources>
